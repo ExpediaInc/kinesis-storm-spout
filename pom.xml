@@ -11,10 +11,10 @@
     <url>https://github.com/ExpediaInc/kinesis-storm-spout</url>
 
     <scm>
-        <connection>scm:git@github.com:ExpediaInc/kinesis-storm-spout.git</connection>
-        <developerConnection>scm:git@github.com:ExpediaInc/kinesis-storm-spout.git</developerConnection>
+        <connection>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</connection>
+        <developerConnection>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</developerConnection>
         <tag>HEAD</tag>
-        <url>scm:git@github.com:ExpediaInc/kinesis-storm-spout.git</url>
+        <url>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</url>
     </scm>
 
     <properties>
