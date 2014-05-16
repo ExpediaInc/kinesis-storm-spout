@@ -3,7 +3,7 @@
 
     <groupId>com.amazonaws</groupId>
     <artifactId>kinesis-storm-spout</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Amazon Kinesis Storm Spout</name>
@@ -12,7 +12,7 @@
     <scm>
         <connection>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</connection>
         <developerConnection>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</developerConnection>
-        <tag>kinesis-storm-spout-1.0.2</tag>
+        <tag>HEAD</tag>
         <url>scm:git:git@github.com:ExpediaInc/kinesis-storm-spout.git</url>
     </scm>
     
